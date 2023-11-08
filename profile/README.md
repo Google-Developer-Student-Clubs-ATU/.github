@@ -9,6 +9,7 @@
   * AI and Machine Learning
   * Web Development
   * Mobile Application Development 
-  * Cyber Security 
+  * Cyber Security
+  * Game Development
 ---
 :golf: If you're interested in a group, try to [contact](mailto:atugdsc@gmail.com) us!

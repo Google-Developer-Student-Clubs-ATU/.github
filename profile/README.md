@@ -1,4 +1,4 @@
-# Howdy fellow,
+# Howdy fellow.
 
 :seedling: Welcome to Google Developer Student Clubs ATU. We started our journey in Sep 2023 and trying to engage student developers, fresh graduates, and professionals through our hack events & workshops. 
 <br><br>:earth_asia: The motive is to create a local ecosystem of programmers & developers in our university. Technology awareness is the main goal for the group's first few years. 

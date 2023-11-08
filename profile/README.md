@@ -12,4 +12,4 @@
   * Cyber Security
   * Game Development
 ---
-:golf: If you're interested in a group, try to [contact](mailto:atugdsc@gmail.com) us!
+:golf: If you're interested in a group, get in [touch](mailto:atugdsc@gmail.com) with us!

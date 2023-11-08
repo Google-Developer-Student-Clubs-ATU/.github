@@ -5,7 +5,7 @@
 <br><br>:school: The source codes and documents of workshops will be shared on this page. So that everyone can benefit.
 <br><br>:ringed_planet: We're currently gathering student fellows for our developing teams. 
 
-#### Here is a list of our current teams:
+### Here is a list of our current teams:
   * AI and Machine Learning
   * Web Development
   * Mobile Application Development 
